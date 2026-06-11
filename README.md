@@ -18,12 +18,11 @@
 
 ## About Me
 
-I'm an AI undergrad at **NUST SEECS** who loves building things that actually work — from ML pipelines to full-stack AI apps. Currently exploring computer vision, NLP, and applied AI research.
+I'm an AI undergrad at **NUST SEECS** who loves building things that actually work  from ML pipelines to full-stack AI apps.Exploring my way through ML prediction systems and computer vision detection systems.  Currently exploring computer vision, NLP, and applied AI research.
 
 - 🔭 Working on real-time computer vision & AI-powered web apps
 - 🌱 Currently learning more about model deployment and ML systems
 - 🏆 FICS'25 Finalist — nationwide AI innovation competition
-- 🔬 Research collaborator at MachVIS Lab, NUST
 - 💬 Always up for talking AI, ML, or cool project ideas
 
 ---
@@ -36,17 +35,24 @@ I'm an AI undergrad at **NUST SEECS** who loves building things that actually wo
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 
 **ML & AI**
+![Python](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![YOLOv8](https://img.shields.io/badge/YOLOv8-00FFFF?style=flat-square&logoColor=black)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 
 **Backend & Databases**
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 **Frontend**
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-E34F26?style=flat-square&logo=html5&logoColor=white)
+
+**DevOps & Tools**
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 ---
 
