@@ -1,5 +1,4 @@
 <h1 align="center">Hi, I'm Sadia Halima 👋</h1>
-
 <p align="center">
   <b>AI Undergraduate @ NUST · ML Engineer · Full-Stack AI Developer</b><br/>
   Islamabad, Pakistan 🇵🇰
@@ -55,12 +54,19 @@ I'm an AI undergrad at **NUST SEECS** who loves building things that actually wo
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 ---
-
-## 📂 My Work
-
-Feel free to explore my repositories — feedback and suggestions are always welcome! 🙌
+---
+## 🐍 My Contribution Snake
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SHalima8/SHalima8/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SHalima8/SHalima8/output/github-snake.svg" />
+    <img alt="snake animation" src="https://raw.githubusercontent.com/SHalima8/SHalima8/output/github-snake.svg" />
+  </picture>
+</p>
 
 ---
+## 📂 My Work
+Feel free to explore my repositories — feedback and suggestions are always welcome! 🙌
 
 <p align="center">
   <i>Open to AI/ML internships — let's connect!</i>
